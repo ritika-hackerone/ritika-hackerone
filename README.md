@@ -12,10 +12,30 @@
 - 🧠 Interested in LLM evaluation, retrieval-augmented systems, and turning ambiguous real-world rules into auditable software
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/ritikasolankii)
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,tensorflow,sklearn,fastapi,docker,gcp,oracle,mysql,mongodb,git, huggingface,powerbi,numpy,pandas,seaborn,rag,higgsfield,cursorai,streamlit&theme=dark" />
+
+</div> -->
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,tensorflow,fastapi,docker,gcp,mysql,mongodb,git,figma,wordpress,streamlit&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Higgsfield-AI-7B68EE?style=for-the-badge"/>
 
 </div>
 
