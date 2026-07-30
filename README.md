@@ -15,7 +15,7 @@
 <div align="center">
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,tensorflow,sklearn,fastapi,docker,gcp,oracle,mysql,mongodb,git, huggingface, powerbi, numpy, pandas,seaborn,rag, higgsfield, cursorai, streamlit & theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,tensorflow,sklearn,fastapi,docker,gcp,oracle,mysql,mongodb,git, huggingface,powerbi,numpy,pandas,seaborn,rag,higgsfield,cursorai,streamlit&theme=dark" />
 
 </div>
 
